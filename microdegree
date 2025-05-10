@@ -1,0 +1,35 @@
+<html>
+
+<head>
+
+<title>Employee Details</title>
+
+</head>
+
+<body>
+
+<form name="employee information">
+  
+<left><h2>Employee Details</h2>
+
+First name: <input type="text" name="firstname"><br>
+
+Last name: <input type="text" name="lastname"><br>
+
+<input type="radio" name="gender" value="male"> Male<br>
+
+<input type="radio" name="gender" value="female"> Female<br>
+
+Employee ID: <input type="text" name="empid"><br>
+
+Designation: <input type="text" name="designation"><br>
+
+Phone Number: <input type="text" name="phno"><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+
+</html>
